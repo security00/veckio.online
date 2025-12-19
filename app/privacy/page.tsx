@@ -67,11 +67,14 @@ export default function PrivacyPage() {
                 </span>
                 <div>
                   <h3 className="font-semibold text-white/80">
-                    No analytics / ads
+                    Analytics (Google Analytics & Microsoft Clarity)
                   </h3>
                   <p className="mt-1">
-                    We currently do not run third-party analytics or advertising
-                    scripts on this site.
+                    We use Google Analytics (GA4) and Microsoft Clarity to
+                    understand usage and improve the site (for example: page
+                    views, session interactions, device/browser information).
+                    These providers may set cookies or similar identifiers
+                    according to their policies.
                   </p>
                 </div>
               </li>
